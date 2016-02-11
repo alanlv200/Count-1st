@@ -482,6 +482,7 @@
 				06EB86011C642BA200C7FF3A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		06EB86021C642BA200C7FF3A /* Build configuration list for PBXNativeTarget "practice3Tests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +491,7 @@
 				06EB86041C642BA200C7FF3A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		06EB86051C642BA200C7FF3A /* Build configuration list for PBXNativeTarget "practice3UITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +500,7 @@
 				06EB86071C642BA200C7FF3A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
